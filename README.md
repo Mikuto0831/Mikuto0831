@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20there%20I`m%20Mikuto!%20"></a>
   <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,rust,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,ts,rust,git,vscode,docker" />
   </a>
   </p> 
   <img aline="center" src="https://github.com/user-attachments/assets/5c5669bb-5acd-4352-8357-93559ae6f371" width="50%" />
