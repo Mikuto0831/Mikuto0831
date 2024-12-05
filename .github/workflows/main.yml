@@ -1,0 +1,27 @@
+on:
+  schedule:
+    - cron: 0 0 * * * # every day
+  push:
+    branches:
+      - main
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get SVGs
+        run: |
+          curl --fail -H "x-gh-token: ${{ github.token }}" 'https://ghs.reij.uno/api/langs?username=${{ github.actor }}&theme=light' > ./langs.light.svg
+          curl --fail -H "x-gh-token: ${{ github.token }}" 'https://ghs.reij.uno/api/langs?username=${{ github.actor }}&theme=dark'  > ./langs.dark.svg
+      - name: Commit
+        run: |
+          git remote set-url origin https://github-actions:${{ github.token }}@github.com/${{ github.repository }}
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          if (git diff --shortstat | grep '[0-9]'); then
+            git add .
+            git commit -m "Update language stats"
+            git push origin main
+          fi
