@@ -18,6 +18,11 @@ Here are some ideas to get you started:
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,rust,go,git,vscode,docker" />
   </a>
-  </p> 
+  </p>
+  <p align="center">
+    Github上の言語割合<br>
+    <img src="./langs.light.svg#gh-light-mode-only" width="330"/>
+    <img src="./langs.dark.svg#gh-dark-mode-only" width="330"/>
+  </p>
   <img aline="center" src="https://github.com/user-attachments/assets/5c5669bb-5acd-4352-8357-93559ae6f371" width="50%" />
 </div>
