@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 <p>
   <img align="right" width="49%" src="./langs.light.svg#gh-light-mode-only"/>
   <img align="right" width="49%" src="./langs.light.svg#gh-dark-mode-only"/>
+</p>
 
-  ## Letest Zenn Posts
-  <!-- BLOG-POST-LIST:START -->
+## Letest Zenn Posts
+<!-- BLOG-POST-LIST:START -->
 - [【Ollama】WSL2+Ubuntu上でローカルLLMを動かす【GTX1660 Super】](https://zenn.dev/linux_club/articles/2eaff68c013b2a)
 - [【MindAR】サークルのチラシにARを実装した話【+Cloudflare Pages】](https://zenn.dev/linux_club/articles/7837cf0a810a9f)
 - [Vite+shadcn/uiをTailwind CSS V4.0で使う](https://zenn.dev/linux_club/articles/dd03b7fdfe48f8)
