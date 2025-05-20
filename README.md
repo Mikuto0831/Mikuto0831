@@ -19,6 +19,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,ts,rust,go,git,vscode,docker" />
   </a>
   </p>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
   <p align="center">
     Github上の言語割合<br>
     <img src="./langs.light.svg#gh-light-mode-only" width="330"/>
