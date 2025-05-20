@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 
   ### Zenn
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [【Ollama】WSL2+Ubuntu上でローカルLLMを動かす【GTX1660 Super】](https://zenn.dev/linux_club/articles/2eaff68c013b2a)
+- [【MindAR】サークルのチラシにARを実装した話【+Cloudflare Pages】](https://zenn.dev/linux_club/articles/7837cf0a810a9f)
+- [Vite+shadcn/uiをTailwind CSS V4.0で使う](https://zenn.dev/linux_club/articles/dd03b7fdfe48f8)
+- [【CLI】RTX1200のセットアップ【初期設定編】](https://zenn.dev/linux_club/articles/ba7afe87c45615)
+<!-- BLOG-POST-LIST:END -->
   
   <p align="center">
     Github上の言語割合<br>
