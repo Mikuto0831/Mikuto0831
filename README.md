@@ -21,12 +21,11 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<p>
-  <img align="right" width="49%" style="margin-top=3rm" src="./langs.light.svg#gh-light-mode-only"/>
-  <img align="right" width="49%" style="margin-top=3rm" src="./langs.light.svg#gh-dark-mode-only"/>
-</p>
-
 ## Letest Zenn Posts
+<p>
+  <img align="right" width="49%" src="./langs.light.svg#gh-light-mode-only"/>
+  <img align="right" width="49%" src="./langs.light.svg#gh-dark-mode-only"/>
+</p>
 <!-- BLOG-POST-LIST:START -->
 - [【Ollama】WSL2+Ubuntu上でローカルLLMを動かす【GTX1660 Super】](https://zenn.dev/linux_club/articles/2eaff68c013b2a)
 - [【MindAR】サークルのチラシにARを実装した話【+Cloudflare Pages】](https://zenn.dev/linux_club/articles/7837cf0a810a9f)
