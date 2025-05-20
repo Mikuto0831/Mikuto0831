@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 </div>
 
 <p>
-  言語使用割合
-  <img align="right" width="49%" src="./langs.light.svg#gh-light-mode-only"/>
-  <img align="right" width="49%" src="./langs.light.svg#gh-dark-mode-only"/>
+  <img align="right" width="49%" style="margin-top=3rm" src="./langs.light.svg#gh-light-mode-only"/>
+  <img align="right" width="49%" style="margin-top=3rm" src="./langs.light.svg#gh-dark-mode-only"/>
 </p>
 
 ## Letest Zenn Posts
